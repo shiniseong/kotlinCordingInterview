@@ -1,4 +1,4 @@
-package `08_trapping_rain_water_42`
+package `trapping_rain_water_42`
 
 class Solution {
     fun trap(height: IntArray): Int {
